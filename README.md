@@ -1,2 +1,2 @@
-jeantheodat.github.io
+JeanTheodat.github.io
 =====================
